@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recuento de Gastos</string>
+    <string name="hint_concepto">Concepto</string>
+    <string name="hint_monto">Monto</string>
+    <string name="btn_agregar">Agregar gasto</string>
+    <string name="total_label">Total: $%1$.2f</string>
+    <string name="monto_formato">$%1$.2f</string>
+    <string name="error_campos_vacios">Por favor completa todos los campos</string>
+</resources>
